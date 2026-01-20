@@ -1,0 +1,14 @@
+/* Reset default Vite styles */
+#root {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* Fix Leaflet map display */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}
